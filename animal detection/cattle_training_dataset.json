@@ -1,0 +1,10162 @@
+[
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2813
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4300
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Respiratory",
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1443
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4597
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2883
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 1091
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4201
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3022
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 4025
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1106
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2647
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 1853
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3859
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 3441
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1229
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 3515
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1675
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4875
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2412
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4104
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4566
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3567
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3477
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2703
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4539
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 2853
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2761
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2145
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3318
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 5098
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3207
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3350
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Ecthym",
+                "Respiratory"
+            ]
+        },
+        "output": 3691
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4173
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4615
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2495
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1206
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3519
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "lumpy",
+                "Ecthym"
+            ]
+        },
+        "output": 1353
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2657
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3608
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4743
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3151
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3716
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2984
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4542
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2215
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3260
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 1696
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1340
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2460
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3071
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 4271
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2306
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Dermatitis",
+                "lumpy"
+            ]
+        },
+        "output": 2917
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2460
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 3739
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1164
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2023
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "lumpy",
+                "Skin"
+            ]
+        },
+        "output": 4502
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "Dermatitis",
+                "Ecthym"
+            ]
+        },
+        "output": 1274
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4387
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Dermatitis",
+                "Ecthym"
+            ]
+        },
+        "output": 3903
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2029
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1888
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2066
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2716
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2943
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1053
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3411
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 3676
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2284
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4898
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3684
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2322
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4238
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2371
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2685
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2741
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Skin",
+                "Dermatitis"
+            ]
+        },
+        "output": 2509
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "lumpy",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 4572
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 4002
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3901
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3812
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3983
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1418
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Ecthym",
+                "Respiratory"
+            ]
+        },
+        "output": 3938
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3575
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4562
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3763
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2755
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1661
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1255
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 4251
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3673
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 2938
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3237
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 2590
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2744
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3539
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4819
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2085
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4731
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2790
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1227
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2145
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3986
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1530
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1750
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Respiratory",
+                "Dermatitis"
+            ]
+        },
+        "output": 1991
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1710
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1578
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2153
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4627
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3936
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2907
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1235
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "Respiratory",
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "Dermatitis",
+                "lumpy"
+            ]
+        },
+        "output": 1250
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2556
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 3170
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Dermatitis",
+                "Ecthym"
+            ]
+        },
+        "output": 1534
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 3803
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3625
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3489
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3224
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3395
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3282
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Respiratory",
+                "lumpy"
+            ]
+        },
+        "output": 2769
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3253
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3294
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 3464
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1490
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Respiratory",
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4056
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4141
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1832
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3358
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4828
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3110
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2525
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4768
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 3556
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1692
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 4383
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3601
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2959
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2653
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1447
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2668
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2575
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3284
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 2442
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 3490
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Respiratory",
+                "lumpy"
+            ]
+        },
+        "output": 2668
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Respiratory",
+                "lumpy"
+            ]
+        },
+        "output": 4594
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1253
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2651
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4505
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1948
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2415
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4043
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3805
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2739
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4687
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3309
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2323
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3297
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1044
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1562
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2149
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1094
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3441
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3606
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4863
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4154
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3171
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 3409
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3173
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1405
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4575
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3760
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1020
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3978
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1598
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3840
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4220
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1059
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4270
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3921
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1109
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Respiratory",
+                "Dermatitis"
+            ]
+        },
+        "output": 2837
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2715
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1438
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 1511
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1386
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4144
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3063
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2571
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4260
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3954
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1874
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3846
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3698
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2286
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2159
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4825
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4346
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4524
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 3872
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1628
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Respiratory",
+                "Ecthym"
+            ]
+        },
+        "output": 2310
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3423
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2057
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4327
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2217
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Ecthym",
+                "lumpy"
+            ]
+        },
+        "output": 3308
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1488
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2030
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3854
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 1830
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1880
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2494
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2937
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Respiratory",
+                "Ecthym"
+            ]
+        },
+        "output": 4344
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2910
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1227
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1727
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Respiratory",
+                "lumpy"
+            ]
+        },
+        "output": 2434
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2622
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3137
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2746
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3473
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4953
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Dermatitis",
+                "lumpy"
+            ]
+        },
+        "output": 3259
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2329
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3478
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3869
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3644
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4408
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2734
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2952
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1525
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 3579
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory",
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2110
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2117
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2578
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3223
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3979
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1267
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3467
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4915
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1536
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4239
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Dermatitis",
+                "Ecthym"
+            ]
+        },
+        "output": 2811
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1420
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4750
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3689
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4489
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3341
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2603
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2042
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1407
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2459
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3518
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4991
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1345
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1988
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4871
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1787
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2569
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 4187
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Respiratory",
+                "Ecthym"
+            ]
+        },
+        "output": 1898
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1726
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Respiratory",
+                "Ecthym"
+            ]
+        },
+        "output": 1660
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2040
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3687
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3905
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 4516
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Respiratory",
+                "Dermatitis"
+            ]
+        },
+        "output": 3782
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4699
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4109
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 2792
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1856
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2011
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 2140
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4494
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3828
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3396
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2365
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4537
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1082
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1915
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2661
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3646
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4400
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2388
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3343
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1793
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1832
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Respiratory",
+                "Ecthym"
+            ]
+        },
+        "output": 3498
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3683
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4438
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3181
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2500
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2635
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4263
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1816
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2841
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1378
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3238
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2916
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2705
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3303
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3771
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1791
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4764
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1775
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4216
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2375
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4658
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 2461
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3918
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3822
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2419
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1745
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Dermatitis",
+                "Ecthym"
+            ]
+        },
+        "output": 3072
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2833
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1429
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3941
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4146
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3367
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4169
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2296
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2993
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 4201
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1864
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3904
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 2146
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "lumpy",
+                "Ecthym"
+            ]
+        },
+        "output": 2278
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3421
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3231
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2294
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4929
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4095
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 2399
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1144
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 2587
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2542
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4218
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1674
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1792
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Skin",
+                "Dermatitis"
+            ]
+        },
+        "output": 3053
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 2186
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1116
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3184
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1844
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "lumpy",
+                "Skin"
+            ]
+        },
+        "output": 1474
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Skin",
+                "Dermatitis"
+            ]
+        },
+        "output": 2664
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2566
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 1560
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4177
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4578
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1179
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3930
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3998
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1528
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 2268
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4214
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 3864
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1969
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4443
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3707
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 2647
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4032
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "lumpy",
+                "Skin"
+            ]
+        },
+        "output": 1890
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4371
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4578
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3533
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3306
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2546
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4126
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4067
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3915
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3653
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2158
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4342
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1769
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4380
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1835
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3384
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2144
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2361
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4506
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4030
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4074
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1719
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1436
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4621
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 4056
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 2159
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2544
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1209
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2664
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Ecthym",
+                "lumpy"
+            ]
+        },
+        "output": 2103
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 2546
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1895
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1800
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2752
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1511
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4179
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 4140
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3303
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1227
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3839
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1131
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1191
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3542
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3916
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3515
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3884
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1480
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4860
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 3053
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1976
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1133
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1063
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3816
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2547
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Ecthym",
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1410
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Respiratory",
+                "Dermatitis"
+            ]
+        },
+        "output": 3475
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4713
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3657
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3805
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2901
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2475
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1746
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2384
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2813
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2870
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3152
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4736
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1789
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4217
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1071
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3901
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1753
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "lumpy",
+                "Ecthym"
+            ]
+        },
+        "output": 2393
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1591
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 3644
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 1426
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1996
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2626
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4834
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3995
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 5004
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 4374
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3699
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2084
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 4535
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1414
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3076
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2649
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3350
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2471
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2350
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2538
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2034
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1242
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1687
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3290
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1333
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4763
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1214
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2060
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2369
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1651
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1516
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "Dermatitis",
+                "lumpy"
+            ]
+        },
+        "output": 1185
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2439
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "lumpy",
+                "Skin"
+            ]
+        },
+        "output": 2494
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1519
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4721
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3546
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3501
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1635
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3826
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 1921
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 2380
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1197
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3592
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 3331
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 3484
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 5060
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4453
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 1739
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4155
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 2224
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2105
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1857
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2468
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1659
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4079
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1141
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4150
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2173
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3227
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3883
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1545
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3806
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4102
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2772
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3576
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2215
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1574
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2162
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1101
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1573
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1215
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3179
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3093
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4578
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3248
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4408
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3548
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1389
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2793
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2599
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2067
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3241
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1131
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3397
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4255
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3666
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3500
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1985
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2586
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4598
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4262
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3472
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4834
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1814
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2517
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1421
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2192
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3858
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2983
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2683
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3087
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1747
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3775
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3326
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2707
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Ecthym",
+                "lumpy"
+            ]
+        },
+        "output": 3784
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3796
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4041
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2188
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2803
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1282
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4281
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1398
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4733
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2885
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2854
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3904
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3125
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1152
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1925
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4280
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1926
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1043
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1768
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3806
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2483
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Ecthym",
+                "Respiratory"
+            ]
+        },
+        "output": 3154
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Ecthym",
+                "lumpy"
+            ]
+        },
+        "output": 2136
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 2399
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 2826
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3302
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 2305
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2881
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2523
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2006
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1710
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1666
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2558
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2162
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4240
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 4048
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2100
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "Ecthym",
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3375
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3106
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4400
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2287
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3247
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2587
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4343
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4461
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2846
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1788
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3926
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1995
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4672
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3897
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1967
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 1874
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2563
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4065
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2863
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3562
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1362
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 2072
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4590
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3584
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4963
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1026
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1357
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "lumpy",
+                "Ecthym"
+            ]
+        },
+        "output": 1494
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4466
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1167
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4479
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 1869
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2776
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Skin",
+                "Dermatitis"
+            ]
+        },
+        "output": 3339
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 2283
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4847
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3007
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3026
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2386
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4253
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2961
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2572
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2097
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3906
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1957
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 2616
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 3092
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1077
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2039
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2715
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3568
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3394
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "Ecthym",
+                "Dermatitis"
+            ]
+        },
+        "output": 4276
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3508
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1785
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4341
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3373
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4561
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2542
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3183
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3595
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2133
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4505
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 5003
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4981
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4232
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2149
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2099
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3594
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 3879
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2679
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2043
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4222
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3980
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1341
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4158
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1195
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 3005
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3077
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1109
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3039
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2301
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory",
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3590
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2568
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1221
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3570
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2212
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2951
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1971
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2484
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 4007
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4269
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1533
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4140
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1426
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2429
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2726
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3804
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4226
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2139
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4443
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3113
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2980
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1484
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 4470
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3102
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1348
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2746
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Respiratory",
+                "lumpy"
+            ]
+        },
+        "output": 3012
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4629
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1867
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 3684
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 2934
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "Ecthym",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2670
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3471
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 1250
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3026
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4840
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3918
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4809
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1605
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4498
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1660
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 2296
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2131
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 1890
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2828
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1303
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2292
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1579
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2112
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4436
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Ecthym",
+                "lumpy"
+            ]
+        },
+        "output": 3182
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4173
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4262
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1471
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3921
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Respiratory",
+                "Dermatitis"
+            ]
+        },
+        "output": 3193
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3138
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1042
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "Dermatitis",
+                "lumpy"
+            ]
+        },
+        "output": 4200
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4236
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1850
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2733
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4941
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4277
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1015
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "lumpy",
+                "Skin"
+            ]
+        },
+        "output": 2426
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 2607
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4237
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4098
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3197
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 1702
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 1586
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1732
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4407
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Dermatitis",
+                "Ecthym"
+            ]
+        },
+        "output": 1946
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1524
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1251
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4868
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4689
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 2535
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1392
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1429
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1176
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "Skin",
+                "Ecthym"
+            ]
+        },
+        "output": 1229
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3614
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2796
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3265
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3484
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2215
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3013
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1911
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2084
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1589
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2724
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2376
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 3459
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2988
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "lumpy",
+                "Ecthym"
+            ]
+        },
+        "output": 4594
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3903
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2430
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 1241
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1871
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2049
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2254
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2314
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1221
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3390
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4897
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 5081
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4530
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3946
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 1257
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4502
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2894
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2491
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2735
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4688
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1100
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 4385
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2380
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1295
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "Dermatitis",
+                "Respiratory"
+            ]
+        },
+        "output": 1023
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 3347
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4147
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2287
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "Dermatitis",
+                "Skin"
+            ]
+        },
+        "output": 4563
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2463
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2980
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3047
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1817
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4502
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4598
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3155
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 2169
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2868
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1459
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4796
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2220
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1652
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1728
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 2333
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1007
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3602
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4788
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3971
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3167
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4987
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1800
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3803
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2158
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1787
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3062
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 3135
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 4039
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4089
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1970
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3242
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 3962
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1117
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2752
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 3549
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3259
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4377
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2554
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4827
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4991
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2968
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2878
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4529
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "lumpy"
+            ]
+        },
+        "output": 2018
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2025
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3490
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1022
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4804
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "lumpy",
+                "Skin"
+            ]
+        },
+        "output": 1099
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 3933
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3986
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "lumpy",
+                "Respiratory"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3576
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4721
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1297
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4207
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3373
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2380
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4753
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3852
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3197
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "lumpy",
+                "Dermatitis"
+            ]
+        },
+        "output": 2239
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1314
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1777
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1048
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3177
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2624
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2566
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1336
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4065
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2575
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2369
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3388
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2952
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "3Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3272
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4450
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3735
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4590
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 2742
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2840
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3160
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1631
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "11Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1830
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "Skin",
+                "Dermatitis"
+            ]
+        },
+        "output": 2179
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "8Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2500
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2334
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1253
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "10Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2345
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4795
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "8Y",
+            "health": [
+                "Skin",
+                "Respiratory"
+            ]
+        },
+        "output": 2409
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3590
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "Respiratory",
+                "Skin"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 2491
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2389
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3849
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3930
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "2Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4673
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 3153
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3774
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2534
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3258
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1408
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3679
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Respiratory"
+            ]
+        },
+        "output": 3046
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "6Y",
+            "health": [
+                "Ecthym"
+            ]
+        },
+        "output": 2832
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2442
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "14Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1000
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "5Y",
+            "health": [
+                "Ecthym",
+                "Respiratory"
+            ]
+        },
+        "output": 3259
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "13Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1037
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "7Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 3025
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "9Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 2600
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "4Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4088
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "12Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 1414
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 4870
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "3Y",
+            "health": [
+                "Dermatitis",
+                "lumpy"
+            ]
+        },
+        "output": 3774
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 5014
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "7Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2576
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "9Y",
+            "health": [
+                "Skin",
+                "lumpy"
+            ]
+        },
+        "output": 1809
+    },
+    {
+        "input": {
+            "sex": "Male",
+            "age": "1Y",
+            "health": [
+                "healthy"
+            ]
+        },
+        "output": 5081
+    },
+    {
+        "input": {
+            "sex": "Female",
+            "age": "5Y",
+            "health": [
+                "Dermatitis"
+            ]
+        },
+        "output": 2860
+    }
+]
