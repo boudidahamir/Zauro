@@ -4,6 +4,9 @@ import requests
 from PIL import Image
 import base64
 import io
+from pyngrok import ngrok
+import torch
+
 app = Flask(__name__)
 # === Configurations ===
 ROBOFLOW_DISEASE_API_KEY = "YPeeLeEnmBBMD2yGzdZW"
@@ -18,14 +21,16 @@ ROBOFLOW_AGE_PROJECT = "cattle-age"
 # ✅ Load once when the app starts
 tokenizer = T5Tokenizer.from_pretrained("amirboudidah/t5-cattle-price")
 model = T5ForConditionalGeneration.from_pretrained("amirboudidah/t5-cattle-price")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 
 def format_input(data):
     return f"sex: {data['sex']}, age: {data['age']}, health: {';'.join(data['health'])}"
 
 def predict_price(data):
     input_text = format_input(data)
-    inputs = tokenizer(input_text, return_tensors="pt", padding="max_length", truncation=True, max_length=128)
-    outputs = model.generate(**inputs)
+    inputs = tokenizer(input_text, return_tensors="pt", padding="max_length", truncation=True, max_length=128).to(model.device)
+    outputs = model.generate(input_ids=inputs["input_ids"], attention_mask=inputs["attention_mask"])
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 # === Utility: Convert image to base64 ===
@@ -140,4 +145,4 @@ def predict():
     })
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(port=5000)
