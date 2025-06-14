@@ -62,31 +62,6 @@ Zauro solves this by making livestock:
 
 ---
 
-## 🚀 Getting Started (Coming Soon)
-
-```bash
-# Clone the repo
-git clone https://github.com/your-org/zauro.git
-
-# Install dependencies
-cd zauro
-# Instructions to be added per module (Flutter, Python, Smart Contracts)
-```
-
----
-
-## 🤝 Contributing
-
-We're building Zauro to empower rural communities with modern tools. If you're passionate about blockchain, AI, or African tech — you're welcome to contribute.
-
----
-
-## 📄 License
-
-MIT License
-
----
-
 ## 🙌 Acknowledgements
 
 - ILRI - International Livestock Research Institute
