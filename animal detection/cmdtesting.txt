@@ -1,0 +1,8 @@
+$body = @{
+    image_path = "path/to/your/image.jpg"
+} | ConvertTo-Json
+
+Invoke-RestMethod -Uri "http://localhost:5000/predict" `
+                  -Method Post `
+                  -Body $body `
+                  -ContentType "application/json"

@@ -1,0 +1,34 @@
+
+ 1. Create a New Wallet
+
+Invoke-RestMethod -Uri "http://localhost:3000/create-wallet" -Method Post
+
+
+2. Create a New NFT Collection
+
+Invoke-RestMethod -Uri "http://localhost:3000/create-collection" -Method Post
+
+3. Mint NFT to a Wallet
+# Define the metadata (replace values accordingly)
+$metadata = @{
+  age = "12Y"
+  price = 4500
+  health = "healthy"
+  sex = "female"
+  image = "https://example.com/cow.jpg"
+} | ConvertTo-Json -Depth 5
+
+# Replace with the wallet's real credentials
+$body = @{
+  ownerAccountId = "0.0.1234567"
+  ownerPrivateKey = "302e020100300506032b657004220420abc..."
+  metadata = $metadata
+} | ConvertTo-Json -Depth 5
+
+Invoke-RestMethod -Uri "http://localhost:3000/mint-nft" -Method Post -Body $body -ContentType "application/json"
+
+
+Invoke-RestMethod -Uri "http://localhost:3000/collection-nfts" -Method Get
+
+
+Invoke-RestMethod -Uri "http://localhost:3000/nfts/0.0.1234567" -Method Get
