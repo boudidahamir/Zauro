@@ -4,7 +4,15 @@
   "description": "Hedera NFT demo app backend",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "node index.js",
+    "docker:build": "docker build -t hedera-nft-app .",
+    "docker:run": "docker run -p 3000:3000 --env-file .env hedera-nft-app",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:logs": "docker-compose logs -f",
+    "docker:restart": "docker-compose restart",
+    "docker:clean": "docker-compose down -v && docker system prune -f"
   },
   "keywords": [],
   "author": "",

@@ -30,16 +30,120 @@ function decodeBase64Json(base64str) {
 // Helper to read collection info
 async function getCollectionInfo() {
     try {
-        const data = await fs.readFile('collection.json', 'utf8');
+        const data = await fs.readFile('data/collection.json', 'utf8');
         return JSON.parse(data);
     } catch (err) {
-        return null;
+        // Fallback to root directory for backward compatibility
+        try {
+            const data = await fs.readFile('collection.json', 'utf8');
+            return JSON.parse(data);
+        } catch (fallbackErr) {
+            return null;
+        }
     }
 }
 
 // Helper to save collection info
 async function saveCollectionInfo(info) {
-    await fs.writeFile('collection.json', JSON.stringify(info, null, 2));
+    // Ensure data directory exists
+    try {
+        await fs.mkdir('data', { recursive: true });
+    } catch (err) {
+        // Directory might already exist
+    }
+    
+    await fs.writeFile('data/collection.json', JSON.stringify(info, null, 2));
+}
+
+// Helper to get current NFT count for a collection
+async function getCurrentNFTCount(tokenId) {
+    try {
+        const url = `https://testnet.mirrornode.hedera.com/api/v1/tokens/${tokenId}/nfts`;
+        const { data } = await axios.get(url);
+        return data.nfts ? data.nfts.length : 0;
+    } catch (err) {
+        console.error("Error getting NFT count:", err);
+        return 0;
+    }
+}
+
+// Helper to create a new collection
+async function createNewCollection(collectionNumber = 1) {
+    try {
+        const supplyKey = PrivateKey.generateED25519();
+        const collectionName = `DemoNFT-${collectionNumber}`;
+        const collectionSymbol = `DNFT${collectionNumber}`;
+        
+        const nftCreateTx = await new TokenCreateTransaction()
+            .setTokenName(collectionName)
+            .setTokenSymbol(collectionSymbol)
+            .setTokenType(TokenType.NonFungibleUnique)
+            .setDecimals(0)
+            .setInitialSupply(0)
+            .setTreasuryAccountId(operatorId)
+            .setSupplyType(TokenSupplyType.Finite)
+            .setMaxSupply(1000000) // Max supply per collection
+            .setSupplyKey(supplyKey)
+            .freezeWith(client);
+        
+        const nftCreateSign = await nftCreateTx.sign(operatorKey);
+        const nftCreateSubmit = await nftCreateSign.execute(client);
+        const nftCreateRx = await nftCreateSubmit.getReceipt(client);
+        const tokenId = nftCreateRx.tokenId;
+
+        const collectionInfo = {
+            tokenId: tokenId.toString(),
+            supplyKey: supplyKey.toStringRaw(),
+            name: collectionName,
+            symbol: collectionSymbol,
+            collectionNumber: collectionNumber,
+            createdAt: new Date().toISOString(),
+            nftCount: 0
+        };
+        
+        await saveCollectionInfo(collectionInfo);
+        console.log(`✅ Created new collection: ${collectionName} (${tokenId})`);
+        return collectionInfo;
+    } catch (err) {
+        console.error("Error creating new collection:", err);
+        throw err;
+    }
+}
+
+// Initialize collections on server start
+async function initializeCollections() {
+    try {
+        console.log("🚀 Initializing collections...");
+        
+        let collection = await getCollectionInfo();
+        
+        if (!collection || !collection.tokenId) {
+            console.log("📦 No collection found, creating first collection...");
+            collection = await createNewCollection(1);
+        } else {
+            console.log(`📦 Found existing collection: ${collection.name} (${collection.tokenId})`);
+            
+            // Check if current collection is approaching limit
+            const currentCount = await getCurrentNFTCount(collection.tokenId);
+            const maxSupply = 1000000;
+            const warningThreshold = maxSupply * 0.9; // 90% of max supply
+            
+            if (currentCount >= warningThreshold) {
+                console.log(`⚠️  Collection ${collection.name} is at ${currentCount}/${maxSupply} NFTs (${Math.round(currentCount/maxSupply*100)}%)`);
+                console.log("🔄 Creating new collection for future NFTs...");
+                
+                const nextCollectionNumber = (collection.collectionNumber || 1) + 1;
+                collection = await createNewCollection(nextCollectionNumber);
+            } else {
+                console.log(`✅ Collection ${collection.name} has ${currentCount} NFTs (${Math.round(currentCount/maxSupply*100)}% capacity)`);
+            }
+        }
+        
+        return collection;
+    } catch (err) {
+        console.error("❌ Error initializing collections:", err);
+        throw err;
+    }
 }
 
 // Endpoint: Create wallet
@@ -60,49 +164,55 @@ app.post('/create-wallet', async (req, res) => {
   }
 });
 
-// Endpoint: Create NFT Collection
+// Endpoint: Create NFT Collection (Optional - collections auto-created)
 app.post('/create-collection', async (req, res) => {
     try {
         // Check if collection already exists
         const existingCollection = await getCollectionInfo();
         if (existingCollection && existingCollection.tokenId) {
-            return res.status(400).json({ error: 'Collection already exists', collection: existingCollection });
+            return res.status(400).json({ 
+                error: 'Collection already exists', 
+                collection: existingCollection,
+                note: 'Collections are automatically created when needed. Use /collection-status to check current collection.'
+            });
         }
 
-        // Create NFT collection
-        const supplyKey = PrivateKey.generateED25519();
-        const nftCreateTx = await new TokenCreateTransaction()
-            .setTokenName('DemoNFT')
-            .setTokenSymbol('DNFT')
-            .setTokenType(TokenType.NonFungibleUnique)
-            .setDecimals(0)
-            .setInitialSupply(0)
-            .setTreasuryAccountId(operatorId)
-            .setSupplyType(TokenSupplyType.Finite)
-            .setMaxSupply(1000000) // Increased max supply for multiple NFTs
-            .setSupplyKey(supplyKey)
-            .freezeWith(client);
-        
-        const nftCreateSign = await nftCreateTx.sign(operatorKey);
-        const nftCreateSubmit = await nftCreateSign.execute(client);
-        const nftCreateRx = await nftCreateSubmit.getReceipt(client);
-        const tokenId = nftCreateRx.tokenId;
-
-        // Save collection info
-        const collectionInfo = {
-            tokenId: tokenId.toString(),
-            supplyKey: supplyKey.toStringRaw(),
-            name: 'DemoNFT',
-            symbol: 'DNFT'
-        };
-        await saveCollectionInfo(collectionInfo);
-
+        // Create new collection
+        const collection = await createNewCollection(1);
         res.json({ 
             message: 'Collection created successfully',
-            collection: collectionInfo
+            collection: collection
         });
     } catch (err) {
         console.error("Error in /create-collection:", err);
+        res.status(500).json({ error: err.message });
+    }
+});
+
+// Endpoint: Get collection status
+app.get('/collection-status', async (req, res) => {
+    try {
+        const collection = await getCollectionInfo();
+        if (!collection || !collection.tokenId) {
+            return res.status(404).json({ error: 'No collection found' });
+        }
+
+        const currentCount = await getCurrentNFTCount(collection.tokenId);
+        const maxSupply = 1000000;
+        const usagePercentage = Math.round((currentCount / maxSupply) * 100);
+        
+        res.json({
+            collection: {
+                ...collection,
+                nftCount: currentCount,
+                maxSupply: maxSupply,
+                usagePercentage: usagePercentage,
+                status: currentCount >= maxSupply ? 'FULL' : 
+                       currentCount >= maxSupply * 0.9 ? 'NEAR_LIMIT' : 'ACTIVE'
+            }
+        });
+    } catch (err) {
+        console.error("Error in /collection-status:", err);
         res.status(500).json({ error: err.message });
     }
 });
@@ -116,9 +226,22 @@ app.post('/mint-nft', async (req, res) => {
         }
 
         // Get collection info
-        const collection = await getCollectionInfo();
+        let collection = await getCollectionInfo();
         if (!collection || !collection.tokenId) {
-            return res.status(400).json({ error: 'Collection not created. Please create collection first using /create-collection' });
+            console.log("📦 No collection found, creating new one...");
+            collection = await createNewCollection(1);
+        }
+
+        // Check if current collection is at limit and create new one if needed
+        const currentCount = await getCurrentNFTCount(collection.tokenId);
+        const maxSupply = 1000000;
+        
+        if (currentCount >= maxSupply) {
+            console.log(`⚠️  Collection ${collection.name} is at maximum capacity (${currentCount}/${maxSupply})`);
+            console.log("🔄 Creating new collection for this NFT...");
+            
+            const nextCollectionNumber = (collection.collectionNumber || 1) + 1;
+            collection = await createNewCollection(nextCollectionNumber);
         }
 
         const tokenId = collection.tokenId;
@@ -163,11 +286,21 @@ app.post('/mint-nft', async (req, res) => {
                 .sign(operatorKey);
             await transferTx.execute(client).then(tx => tx.getReceipt(client));
 
+            // Update collection NFT count
+            collection.nftCount = await getCurrentNFTCount(tokenId);
+            await saveCollectionInfo(collection);
+
             res.json({ 
                 tokenId: tokenId,
                 serial,
                 metadata: metadataString,
-                collection: collection.name,
+                collection: {
+                    name: collection.name,
+                    symbol: collection.symbol,
+                    collectionNumber: collection.collectionNumber,
+                    nftCount: collection.nftCount,
+                    maxSupply: maxSupply
+                },
                 note: associationError ? 'Account was already associated with token' : 'Account was newly associated with token'
             });
         } catch (mintError) {
@@ -345,6 +478,32 @@ app.get('/nfts', async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`Hedera NFT app listening on port ${PORT}`);
-});
+// Initialize collections and start server
+async function startServer() {
+    try {
+        console.log("🚀 Starting Hedera NFT Application...");
+        
+        // Initialize collections on startup
+        await initializeCollections();
+        
+        // Start the server
+        app.listen(PORT, () => {
+            console.log(`✅ Hedera NFT app listening on port ${PORT}`);
+            console.log("📋 Available endpoints:");
+            console.log("   POST /create-wallet - Create new wallet");
+            console.log("   POST /create-collection - Create collection (optional, auto-created)");
+            console.log("   POST /mint-nft - Mint NFT (auto-creates collections)");
+            console.log("   POST /transfer-nft - Transfer NFT between accounts");
+            console.log("   GET /collection-status - Get current collection status");
+            console.log("   GET /collection-nfts - Get all NFTs in current collection");
+            console.log("   GET /nfts/:accountId - Get NFTs owned by account");
+            console.log("   GET /nfts - Get all NFTs minted by operator");
+        });
+    } catch (err) {
+        console.error("❌ Failed to start server:", err);
+        process.exit(1);
+    }
+}
+
+// Start the server
+startServer();
